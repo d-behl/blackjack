@@ -15,4 +15,4 @@ $ blackjack <player1> <player2> ... <player N>`
 ```
 
 ## License
-Open sourced under [MIT License](LICENSE)
+Open sourced under [MIT License](LICENSE).
