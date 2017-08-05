@@ -10,4 +10,4 @@ python setup.py install
 ```
 
 ## Usage
-`blackjack <player1> <player2> .... <player N>`
+`blackjack <player1> <player2> ... <player N>`
